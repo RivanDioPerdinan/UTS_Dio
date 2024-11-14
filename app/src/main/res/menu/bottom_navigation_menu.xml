@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_temperature"
+        android:icon="@drawable/temperatureicon"
+        android:title="Temperature" />
+    <item
+        android:id="@+id/nav_calculator"
+        android:icon="@drawable/calculatoricon"
+        android:title="Calculator" />
+    <item
+        android:id="@+id/nav_bmi"
+        android:icon="@drawable/bmiicon"
+        android:title="BMI" />
+    <item
+        android:id="@+id/nav_money_convert"
+        android:icon="@drawable/moneyconverticon"
+        android:title="Currency" />
+</menu>
